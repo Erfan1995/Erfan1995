@@ -1,7 +1,7 @@
 
 
 ![Header](./github-header-image.png)
-<--
+<!-- <--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 
