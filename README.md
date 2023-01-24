@@ -1,7 +1,7 @@
 
 
-![Header](./github-header-image.png)
-<!-- <--
+![Header](./github-header-image.png) 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Portfolio
